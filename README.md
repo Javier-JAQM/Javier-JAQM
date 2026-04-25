@@ -125,4 +125,6 @@ Estoy abierto a **colaboraciones de investigación**, **revisión de manuscritos
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Javier-JAQM&label=Profile%20views&color=2ea043&style=flat" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Valencia-1f6feb?style=flat" alt="made with love" />
 </p>
