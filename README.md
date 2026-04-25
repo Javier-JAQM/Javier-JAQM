@@ -1,6 +1,14 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:2ea043&height=200&section=header&text=Javier%20A.%20Quille&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=PhD%20Geomatics%20%7C%20Remote%20Sensing%20%7C%20Precision%20Agriculture&descSize=18&descAlignY=60" alt="header" />
-</h1>
+<!-- ========== HERO BANNER ========== -->
+<p align="center">
+  <img src="./assets-banner.png" alt="Javier A. Quille — Remote Sensing · Precision Agriculture · Machine Learning" width="100%" />
+</p>
+
+<h1 align="center">Javier Alvaro Quille Mamani</h1>
+
+<p align="center">
+  <em>PhD Researcher · Geomatics Engineering · UPV — CGAT</em><br/>
+  <em>Remote Sensing &nbsp;•&nbsp; Precision Agriculture &nbsp;•&nbsp; Machine Learning</em>
+</p>
 
 <p align="center">
   <a href="https://javier-jaqm.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -13,6 +21,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=2EA043&center=true&vCenter=true&width=720&lines=PhD+Researcher+at+UPV+%7C+CGAT;Remote+Sensing+%26+UAV+Multispectral+Workflows;Crop+Yield+Prediction+%26+Evapotranspiration;Hydrology+%2F+Groundwater+Modeling;Bridging+Peru+%F0%9F%87%B5%F0%9F%87%AA+and+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="typing" />
 </p>
+
+<blockquote align="center">
+  <i>“Observe. Analyze. Understand. <b>Solve.</b>”</i><br/>
+  <sub>— Turning Earth observation data into agricultural insight.</sub>
+</blockquote>
 
 ---
 
