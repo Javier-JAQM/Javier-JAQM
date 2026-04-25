@@ -158,7 +158,7 @@ machine_learning:
 ## 📌 Repositorios destacados
 
 - 🌐 [**Javier-JAQM.github.io**](https://github.com/Javier-JAQM/Javier-JAQM.github.io) — Mi sitio personal y portafolio académico.
-- 🌾 [**Phenology-metrics-Rice**](https://github.com/JavierQuille/Phenology-metrics-Rice) — Extracción de métricas fenológicas a partir de series NDVI para predicción de rendimiento de arroz.
+- 🌾 [**Phenology-metrics-Rice**](https://github.com/Javier-JAQM/Phenology-metrics-Rice) — Web app para extracción de métricas fenológicas a partir de series NDVI en arroz (*Oryza sativa*).
 
 ---
 
