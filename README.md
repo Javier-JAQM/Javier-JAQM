@@ -15,7 +15,15 @@
   <a href="https://scholar.google.es/citations?user=S-zO5iQAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Javier-Quille-Mamani"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/javier-alvaro-quille-mamani-108444119/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/JavierQuille"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:jalvaro@emin.energy"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRONABEC-Peru%20Government%20Scholarship-C8102E?style=for-the-badge" alt="PRONABEC"/>
+  <img src="https://img.shields.io/badge/UPV-CGAT%20Research%20Group-A40000?style=for-the-badge" alt="CGAT UPV"/>
+  <img src="https://img.shields.io/badge/h--index-8-1F4E3C?style=for-the-badge&logo=googlescholar&logoColor=white" alt="h-index 8"/>
+  <img src="https://img.shields.io/badge/citations-213-276DC3?style=for-the-badge&logo=googlescholar&logoColor=white" alt="citations 213"/>
 </p>
 
 <p align="center">
@@ -31,13 +39,13 @@
 
 ## 👨‍🔬 Sobre mí
 
-Soy **Javier Alvaro Quille Mamani**, investigador doctoral en **Ingeniería Geomática** en la *Universitat Politècnica de València* (UPV), miembro del grupo **Cartografía Geoambiental y Teledetección (CGAT)**.
+Soy **Javier Alvaro Quille Mamani**, investigador doctoral en **Ingeniería Geomática** en la *Universitat Politècnica de València* (UPV), miembro del grupo **Cartografía Geoambiental y Teledetección (CGAT)**. Mi doctorado está financiado por la beca **PRONABEC** del gobierno del Perú desde 2021.
 
 Mi trabajo combina **teledetección satelital y UAV**, **agricultura de precisión** y **modelización ambiental** para resolver problemas reales en cultivos andinos y mediterráneos.
 
-- 🎓 PhD candidate · Geomatics Engineering · UPV
-- 🌾 Cultivos: arroz, quinua, vid, olivo
-- 🛰️ Sensores: Sentinel-2/3, Landsat, MODIS, UAV multiespectral & térmico
+- 🎓 PhD candidate · Geomatics Engineering · UPV (PRONABEC scholarship)
+- 🌾 Cultivos: arroz, quinua, vid, olivo, maíz, frejol
+- 🛰️ Sensores: Sentinel-2/3, Landsat 8/9, MODIS, UAV multiespectral & térmico
 - 🧪 Ex-investigador en **UNALM (Perú)** — proyectos en Lambayeque y Tacna
 - 📍 Actualmente en **Valencia, España**
 - 📚 22 publicaciones · 213 citas · h-index 8 *(Google Scholar)*
@@ -67,23 +75,77 @@ machine_learning:
 
 ---
 
+## 📚 Selected publications
+
+| Año | Título | Revista | Citas |
+|:---:|---|---|:---:|
+| 2025 | [Rice Yield Prediction Using Spectral and Textural Indices Derived from UAV Imagery and Machine Learning Models in Lambayeque, Peru](https://www.researchgate.net/publication/388925084) | *Remote Sensing* 17(4) | 16 |
+| 2024 | Spatio-Temporal Evolution of Olive Tree Water Status Using LST and Vegetation Indices | *Agriculture* 14(5) | 9 |
+| 2024 | Rice Crop Yield Prediction from Sentinel-2 Imagery Using Phenological Metric | *Environmental Sciences Proceedings* 28(1) | 9 |
+| 2024 | Multiseasonal analysis of rice yield prediction with Sentinel-2 time series and UAV imagery in Lambayeque (Peru) | *ISPRS Archives* | 5 |
+| 2023 | Yield Prediction of Four Bean Cultivars Using Vegetation Indices Based on Multispectral Images from UAV in an Arid Zone of Peru | *Drones* 7(5) | 29 |
+| 2022 | Yield Predictions of Four Hybrids of Maize Using Multispectral Images Obtained from UAV in the Coast of Peru | *Agronomy* 12 | 38 |
+| 2021 | Estimación de la evapotranspiración del cultivo de arroz en Perú mediante el algoritmo METRIC e imágenes VANT | *Revista de Teledetección* | 21 |
+
+> 📖 Lista completa (22+ artículos) y métricas actualizadas en mi [Google Scholar](https://scholar.google.es/citations?user=S-zO5iQAAAAJ&hl=es) y [ResearchGate](https://www.researchgate.net/profile/Javier-Quille-Mamani).
+
+---
+
+## 🎓 Education
+
+- **PhD candidate, Geomatics Engineering** &middot; *Universitat Politècnica de València*, España &middot; 2021 – presente &middot; *PRONABEC scholarship*
+- **MSc, Recursos Hídricos** &middot; *Universidad Nacional Agraria La Molina*, Perú
+- **BSc, Ingeniero Agrónomo** &middot; *Universidad Nacional Jorge Basadre Grohmann*, Tacna, Perú
+
+---
+
 ## 🛠️ Stack técnico
 
-<p align="center">
+**Lenguajes & data science**
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-167AC6?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=gdal&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EB6C2D?style=for-the-badge" />
+</p>
+
+**Teledetección & GIS**
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-167AC6?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENVI-1F4E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pix4D-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentinel--2-0B3D91?style=for-the-badge&logo=esa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Landsat%208%2F9-1A4480?style=for-the-badge&logo=nasa&logoColor=white" />
+</p>
+
+**Modelos agro-hidrológicos & UAV**
+
+<p>
+  <img src="https://img.shields.io/badge/METRIC-1F4E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEBAL-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PT--JPL-388E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AquaCrop-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAO--56-A40000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CWSI-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SWAT%20%2F%20MODFLOW-455A64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RPAS%20%2F%20UAV-Multi%20%C2%B7%20RGB%20%C2%B7%20Thermal-37474F?style=for-the-badge" />
+</p>
+
+**Tooling**
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -109,7 +171,7 @@ machine_learning:
 ## 📌 Repositorios destacados
 
 - 🌐 [**Javier-JAQM.github.io**](https://github.com/Javier-JAQM/Javier-JAQM.github.io) — Mi sitio personal y portafolio académico.
-- 🌾 [**Phenology-metrics-Rice**](https://github.com/JavierQuille/Phenology-metrics-Rice) — Extracción de métricas fenológicas a partir de series NDVI para predicción de rendimiento de arroz.
+- 🌾 [**Phenology-metrics-Rice**](https://github.com/Javier-JAQM/Phenology-metrics-Rice) — Web app para extracción de métricas fenológicas a partir de series NDVI en arroz (*Oryza sativa*).
 
 ---
 
